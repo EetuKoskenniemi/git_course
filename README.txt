@@ -1,1 +1,0 @@
-This is a repository for the course Version Control: Git (COMP.CS.060).
